@@ -4,6 +4,7 @@
 	<artifactId>productwebservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>productwebservice Jersey Webapp</name>
+	<packaging>war</packaging>
 	<build>
 		<finalName>productwebservice</finalName>
 		<plugins>
